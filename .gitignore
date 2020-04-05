@@ -1,0 +1,18 @@
+# Directories and files that cannot be commited to git
+
+# Byte-compiled
+
+# Distribution / packaging
+
+# Logs
+*.log
+
+# Editors
+
+# Environments
+
+#  Temp / Cache
+temp
+.temp
+
+
